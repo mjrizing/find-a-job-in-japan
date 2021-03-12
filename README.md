@@ -10,4 +10,9 @@
 *https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/   
 *https://coding-restaurant.tistory.com/138   
 *https://www.zerocho.com/   
-    
+
+-백준
+-코드포스   
+-프로그래머스   
+
+언어는 파이썬추천   
