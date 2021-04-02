@@ -23,3 +23,6 @@
 ~ 4/7 4개사
 
 4/6 2개사 취업설명회 웨비나 
+EGG Forward, BitA
+
+Systena
